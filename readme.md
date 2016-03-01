@@ -3,3 +3,8 @@
 ## Description du Projet
 
 ## Equipe de développement
+
+  * Alexandre Couedelo
+  * Vivien Delmas
+  * Carole Galibourg
+  * Armel Takoulo Fonkou
